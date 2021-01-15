@@ -4,6 +4,7 @@ body{
     margin: 0;
     background-color: #f77307;
     color: white;
+    text-decoration: none;
     font-family: "DM Mono", monospace;
 }
 .card-list{
@@ -85,4 +86,9 @@ body{
 }
 .Furniture:hover{
     border:3px solid #e52e71;
+}
+
+.card .card-header h2 a{
+    text-decoration: none;
+    color: white;
 }
