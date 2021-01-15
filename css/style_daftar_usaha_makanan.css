@@ -86,6 +86,12 @@ div.gallery {
     background:#17141d ;
     color: white;
   }
-  .button:hover{
+
+  .button a{
+    color:white;
+    text-decoration:none;
+  }
+
+  .button a:hover{
   color:#ff8a00;
   }

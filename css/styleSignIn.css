@@ -58,3 +58,18 @@ img{
     transition: all;
 }
 
+  
+@media only screen and (max-width: 700px) {
+    .tes {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+
+  
+  @media only screen and (max-width: 500px) {
+    .tes {
+      width: 100%;
+    }
+  }
+  
